@@ -1,0 +1,66 @@
+Radio Link Design Practice
+
+This project focuses on the design and analysis of radio links using specialized software tools. It allows students to apply theoretical concepts in a practical environment, reinforcing their understanding of wireless communication systems.
+🎯 Objectives
+
+    Learn how to use software for radio link design and analysis.
+
+    Understand how theoretical design factors (frequency, link budget, propagation, etc.) apply in real-world scenarios.
+
+    Develop skills in interpreting simulation results to optimize radio link performance.
+
+🛠️ Tools and Software
+
+The practice uses a radio link design application that enables:
+
+    Simulation of point-to-point and point-to-multipoint links.
+
+    Analysis of signal coverage, interference, and attenuation.
+
+    Calculation of link budgets and Fresnel zones.
+
+    Visualization of terrain profiles and propagation effects.
+
+    Example software used: Radio Mobile, Pathloss, or a custom simulation environment provided by the instructor.
+
+📋 Practice Workflow
+
+    Setup the environment: Install and configure the radio link design tool.
+
+    Define parameters: Set frequency bands, transmission power, antenna types, and heights.
+
+    Simulate the link: Run simulations and visualize propagation results.
+
+    Analyze results: Evaluate link budget, losses, and coverage areas.
+
+    Optimize: Modify parameters to improve link performance.
+
+🧩 Additional Features
+
+For this specific practice, students are encouraged to:
+
+    Compare different frequencies to see their impact on link quality.
+
+    Simulate various terrain profiles to understand obstacles and diffraction effects.
+
+    Present a final report with screenshots, parameter tables, and conclusions.
+
+✅ Expected Outcomes
+
+By the end of the practice, students will:
+
+    Gain hands-on experience with radio link design software.
+
+    Understand the relationship between theory and real-world implementation.
+
+    Be able to propose improvements to a given radio link based on simulation data.
+
+📚 References
+
+    ITU Recommendations for Radiocommunications
+
+    Rappaport, Theodore. Wireless Communications: Principles and Practice.
+
+    Course materials provided by the instructor.
+
+💡 This practice bridges theory and practice, preparing students to design efficient and reliable wireless communication links in real-world scenarios.
