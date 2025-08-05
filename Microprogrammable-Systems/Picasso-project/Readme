@@ -1,0 +1,54 @@
+Hand Gesture Audio Playback System
+
+This project involves creating the necessary electronics to use a proximity sensor (CNY70) that detects when a hand passes a few millimeters above it. When triggered, it plays an audio track stored on a microSD card through an amplifier and speaker. The audio continues to play until either the hand is passed over the sensor again or the audio track finishes.
+🛠️ Components Used
+
+    CNY70 Reflective Optical Sensor – Detects the presence of a hand.
+
+    Micro SD Card Module (SPI, 6-Pin, with Level Conversion) – Reads audio files from the microSD card.
+    Product Link
+
+    Micro SD Card 4GB – Stores the audio tracks to be played.
+    Product Link
+
+    MAX98357 I2S Audio Amplifier Module – Converts digital audio signals to drive the speaker.
+    Product Link
+
+    8Ω Speaker – Outputs the audio to the user.
+    Product Link
+
+    Arduino UNO R3 / Mega 2560 / Due – Controls the logic, reads the sensor, and handles audio playback.
+
+🔧 How It Works
+
+    The CNY70 sensor detects the presence of a hand by measuring reflected infrared light.
+
+    When the sensor is triggered, the Arduino reads an audio file stored on the microSD card.
+
+    The audio signal is sent via I2S protocol to the MAX98357 amplifier.
+
+    The amplifier drives the 8Ω speaker to output the sound.
+
+    The audio playback continues until:
+
+        The hand is detected again (toggle function), or
+
+        The audio track ends.
+
+  🎶 Usage
+
+    Place audio files (in supported format, e.g., WAV) on the microSD card.
+
+    Power up the system.
+
+    Wave your hand over the sensor to start playback.
+
+    Wave your hand again to stop playback or wait until the track finishes.
+
+📌 Future Improvements
+
+    Add support for multiple audio tracks.
+
+    Implement adjustable volume control.
+
+    Use low-power modes for energy efficiency.
