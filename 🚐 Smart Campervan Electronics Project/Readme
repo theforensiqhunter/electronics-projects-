@@ -1,0 +1,64 @@
+This project focuses on the design and installation of the electronic system for a campervan, aiming to create a self-sufficient and comfortable mobile home. It integrates control, monitoring, and safety systems while optimizing energy consumption through solar power and efficient electrical planning.
+🎯 Project Goals
+
+    Install and configure a control panel to monitor and manage:
+
+        Lighting
+
+        Clean and grey water levels
+
+        Battery status
+
+    Implement a door alarm system and additional CCTV cameras for security.
+
+    Calculate daily energy consumption of appliances to determine the required battery capacity.
+
+    Integrate solar panels and ensure proper installation of electrical protections such as circuit breakers and residual current devices.
+
+    Ensure the entire system complies with low voltage safety regulations (BOE).
+
+🛠️ Features & Scope
+
+    Energy Management: Estimation of power usage and battery sizing for full autonomy.
+
+    Solar Energy Integration: Planning and theoretical mounting of solar panels.
+
+    Space Optimization: Efficient arrangement of electronic components within the campervan.
+
+    Security & Monitoring: Alarm system and optional CCTV integration.
+
+    Regulatory Compliance: Study and application of electrical safety standards for homologation.
+
+🧭 Motivation
+
+This project stems from a lifelong passion for campervans and the desire to build one step by step. Inspired by the self-sufficiency of animals like turtles and snails, the goal is to create a mobile home that offers:
+
+    Flexibility: Travel and adapt to different environments without restrictions.
+
+    Comfort: Enjoy modern amenities—hot coffee, warm showers, silent nights—anywhere.
+
+    Independence: Live, study, and work from any location while staying off-grid.
+
+📚 Learning Outcomes
+
+Through this project, I aim to:
+
+    Deepen my understanding of electronics, solar energy, and low-voltage regulations.
+
+    Master the practical aspects of designing and installing electrical systems.
+
+    Gain hands-on experience balancing cost, efficiency, and safety.
+
+🔧 Technologies & Components
+
+    Solar Panels – energy harvesting and integration
+
+    Batteries – sizing and energy storage management
+
+    Control Panel – real-time monitoring and control
+
+    Alarm System & CCTV – enhanced safety features
+
+    Electrical Protections – circuit breakers and differential switches
+
+✨ This project is a step toward merging passion, sustainability, and engineering—turning a dream of a mobile home into a functional reality.
